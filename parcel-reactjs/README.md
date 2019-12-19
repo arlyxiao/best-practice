@@ -1,8 +1,13 @@
 # parcel-reactjs
 
-Zero configuration for reactjs project with these packages:
-⋅⋅* react
-⋅⋅* babel
+**Zero configuration for reactjs project with these packages:**
+- `Parcel`
+- `Reactjs`
+- `Babel`
+- `Prettier`
+- `Typescript`
+- `Scss`
+
 
 ## Building and running on localhost
 
