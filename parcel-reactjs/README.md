@@ -1,6 +1,6 @@
 # parcel-reactjs
 
-**Zero configuration for reactjs project with these packages:**
+**It's coming with these packages:**
 - `Parcel`
 - `Reactjs`
 - `Babel`
@@ -32,4 +32,8 @@ npm run build-prod
 ## Running
 
 Open http://localhost:1234
+
+## More detail
+open https://github.com/airbnb/javascript
+
 
